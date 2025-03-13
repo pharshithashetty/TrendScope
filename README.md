@@ -59,12 +59,12 @@ Read More: Click "Read More" to visit the original post on the social media plat
 
 Project Structure
 TrendScope/
-├── app.py             # Main Flask application
-├── index.html         # Frontend HTML template
-├── requirements.txt   # Python dependencies
-├── .env               # Environment variables (not tracked)
-├── .gitignore         # Git ignore file
-└── README.md          # Project documentation
+├── app.py             
+├── index.html         
+├── requirements.txt   
+├── .env               
+├── .gitignore         
+└── README.md          
 
 Contributing
 Contributions are welcome! Please fork the repository, create a new branch, and submit a pull request with your changes.
